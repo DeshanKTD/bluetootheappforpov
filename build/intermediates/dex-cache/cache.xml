@@ -1,3 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="E:\Projects\Bluetooth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Projects\Bluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_00b63c42cb4ec26091eb9a54a7717ebbd0832128\classes.dex" />
+    </item>
+    <item
+        jar="E:\Projects\Bluetooth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bb991ca3439dfbb6c368b0497f7ca740f18341c5">
+        <dex dex="E:\Projects\Bluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_67709fb69f34b648c47503d760a1bb26c750fe68\classes.dex" />
+    </item>
+    <item
+        jar="E:\Projects\Bluetooth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Projects\Bluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_29a6b176e14274b57e521ba08b70a5de67f862ac\classes.dex" />
+    </item>
+    <item
+        jar="E:\Projects\Bluetooth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="13f0de8fcce66f418b67522479a7a9197c629bb5">
+        <dex dex="E:\Projects\Bluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d3cda0ad582819217dcdb9294d9380e2a155cf17\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Deshan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Projects\Bluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_977945f3a5067205ce62f3e8dae88fe29cef5114\classes.dex" />
+    </item>
+    <item
+        jar="E:\Projects\Bluetooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Projects\Bluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7fae86a6fe31f8cc54e4637a42cd1aa713e52f16\classes.dex" />
+    </item>
+    <item
+        jar="E:\Projects\Bluetooth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Projects\Bluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_02834cb960d333bf54ef641ac9c7d73ede29a289\classes.dex" />
+    </item>
+    <item
+        jar="E:\Projects\Bluetooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Projects\Bluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_fa455286728720029ca4cd525847c1d09f9e1692\classes.dex" />
+    </item>
+
+</items>
